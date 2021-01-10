@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\bin\Debug\netstandard2.0\ComoHacerAPIs.Core.deps.json
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\bin\Debug\netstandard2.0\ComoHacerAPIs.Core.dll
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\bin\Debug\netstandard2.0\ComoHacerAPIs.Core.pdb
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\obj\Debug\netstandard2.0\ComoHacerAPIs.Core.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\obj\Debug\netstandard2.0\ComoHacerAPIs.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\obj\Debug\netstandard2.0\ComoHacerAPIs.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\obj\Debug\netstandard2.0\ComoHacerAPIs.Core.dll
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Core\obj\Debug\netstandard2.0\ComoHacerAPIs.Core.pdb

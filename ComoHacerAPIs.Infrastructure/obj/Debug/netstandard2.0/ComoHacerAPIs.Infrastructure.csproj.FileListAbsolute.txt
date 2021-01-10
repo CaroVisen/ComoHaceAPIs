@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\bin\Debug\netstandard2.0\ComoHacerAPIs.Core.dll
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\bin\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\bin\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.dll
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\bin\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.pdb
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\bin\Debug\netstandard2.0\ComoHacerAPIs.Core.pdb
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.dll
+C:\Users\Usuario\source\repos\ComoHacerAPIs\ComoHacerAPIs.Infrastructure\obj\Debug\netstandard2.0\ComoHacerAPIs.Infrastructure.pdb
